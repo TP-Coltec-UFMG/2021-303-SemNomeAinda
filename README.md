@@ -1,6 +1,13 @@
 # Trabalho Final TP
  Repositório para o trabalho final de TP
 
+Grupo:
+- Pedro Henrique Assunção
+- Ivo Nascimento Pereira Rodrigues
+- John Paulo Martins Machado
+- Bruna Ribeiro Perez
+- Filipe Bison de Souza
+
 
 O nosso menu por ser um jogo de terror possui uma paleta de cores escuras, logo há sempre um grande contraste entre preto e branco e nosso menu tem 3 opções: Jogar, Opções e Sair
 
